@@ -13,7 +13,8 @@ based on various personal and financial characteristics.
 
 # Optional password protection (remove if not needed)
 password_guess = st.text_input("Please enter your password?")
-if password_guess != "streamlit":
+# this password is stores in streamlit secrets
+if password_guess != st.secrets["password"]:
     st.stop()
 
 # Load the pre-trained model
