@@ -52,8 +52,8 @@ If you want to run the application locally, follow these steps:
    ```bash
    pip install -r requirements.txt
 
-5. Run the Streamlit application:
-  ```bash
-  streamlit run app.py
+4. Run the Streamlit application:
+   ```bash
+   streamlit run app.py
 
 #### Thank you for using the Credit Eligibility Application! Feel free to share your feedback.
