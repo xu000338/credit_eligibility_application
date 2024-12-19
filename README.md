@@ -50,12 +50,10 @@ If you want to run the application locally, follow these steps:
 
 3. Install dependencies:
   ```bash
-pip install -r requirements.txt
+   pip install -r requirements.txt
 
 4. Run the Streamlit application:
   ```bash
   streamlit run app.py
 
-
-**Thank you for using the Credit Eligibility Application! Feel free to share your feedback.
-**
+#### Thank you for using the Credit Eligibility Application! Feel free to share your feedback.
