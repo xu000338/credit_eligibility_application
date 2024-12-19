@@ -44,11 +44,11 @@ If you want to run the application locally, follow these steps:
    cd credit_eligibility_application
 
 2. Create and activate a virtual environment:
-  ```bash
+   ```bash
   python -m venv env
   source env/bin/activate  # On Windows, use `env\\Scripts\\activate`
 
-3. Install dependencies:
+4. Install dependencies:
   ```bash
    pip install -r requirements.txt
 
