@@ -49,10 +49,10 @@ If you want to run the application locally, follow these steps:
    source env/bin/activate  # On Windows, use `env\\Scripts\\activate`
 
 3. Install dependencies:
-  ```bash
+   ```bash
    pip install -r requirements.txt
 
-4. Run the Streamlit application:
+5. Run the Streamlit application:
   ```bash
   streamlit run app.py
 
