@@ -45,8 +45,8 @@ If you want to run the application locally, follow these steps:
 
 2. Create and activate a virtual environment:
    ```bash
-  python -m venv env
-  source env/bin/activate  # On Windows, use `env\\Scripts\\activate`
+   python -m venv env
+   source env/bin/activate  # On Windows, use `env\\Scripts\\activate`
 
 4. Install dependencies:
   ```bash
