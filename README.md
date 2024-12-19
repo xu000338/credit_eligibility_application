@@ -48,7 +48,7 @@ If you want to run the application locally, follow these steps:
    python -m venv env
    source env/bin/activate  # On Windows, use `env\\Scripts\\activate`
 
-4. Install dependencies:
+3. Install dependencies:
   ```bash
    pip install -r requirements.txt
 
